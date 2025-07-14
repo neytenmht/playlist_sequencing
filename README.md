@@ -9,7 +9,7 @@ The project extracts meaningful features from songs, with an emphasis on drum pa
 ## Notes
 
 - The datasets and trained models are not included.
-- The notebook is provided for reference only and cannot be executed as-is.
+- The notebook is provided for reference only and cannot be executed.
 
 ## Keywords
 
